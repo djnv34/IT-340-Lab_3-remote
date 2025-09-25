@@ -1,0 +1,25 @@
+commit e6ee1b6be52fc4ecfc315cbd0f67d17686c584f4
+Author: Dariel Nunez <djn34@njit.edu>
+Date:   Wed Sep 24 21:53:31 2025 -0400
+
+    Revert "Created the final.txt file and added a line on hostname"
+    
+    This reverts commit aeb5c6c6954cc66d9357ff1404a7ea578b8b7176.
+
+commit aeb5c6c6954cc66d9357ff1404a7ea578b8b7176
+Author: Dariel Nunez <djn34@njit.edu>
+Date:   Wed Sep 24 21:50:41 2025 -0400
+
+    Created the final.txt file and added a line on hostname
+
+commit 360412355733febaa84669c8563a888983b9c3a1
+Author: Dariel Nunez <djn34@njit.edu>
+Date:   Thu Sep 18 12:29:37 2025 -0400
+
+    Added a message to os-release file in the new branch
+
+commit 3ddfccb339782b07320ec9fe4b06c4f376c5ab46
+Author: Dariel Nunez <djn34@njit.edu>
+Date:   Thu Sep 18 12:20:44 2025 -0400
+
+    Commiting the Lab 3 files in the etc and sys directory
